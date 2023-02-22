@@ -1,7 +1,4 @@
-﻿using System.Diagnostics.Metrics;
-using System;
-
-namespace Markel_API.Models
+﻿namespace Markel_API.Models
 {
     public class Company
     {

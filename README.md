@@ -4,7 +4,7 @@
 * api/Companies/\{id}
 * api/Companies/Claims/\{companyId}
 * api/Claims
-* api/Claims/\{id}
+* api/Claims/\{id} -\[Claim id assuming UCR is a string e.g. Claim1]
 * api/Claims/\{id} - PUT request
 ## Assumptions
 * UCR is the unique identifier for Claims table

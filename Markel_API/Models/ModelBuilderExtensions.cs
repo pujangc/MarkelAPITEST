@@ -1,7 +1,4 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using System.Diagnostics.Metrics;
-using System.Xml.Linq;
-using System;
 
 namespace Markel_API.Models
 {

@@ -1,6 +1,4 @@
-﻿using Microsoft.AspNetCore.Routing;
-using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.Design;
+﻿using System.ComponentModel.DataAnnotations;
 using System.Text.Json.Serialization;
 
 namespace Markel_API.Models
